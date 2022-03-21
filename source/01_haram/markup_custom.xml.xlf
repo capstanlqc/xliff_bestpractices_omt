@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" its:version="2.0">
+  <file original="markup_custom.xml" source-language="en" target-language="fr" datatype="xml">
+    <body>
+      <trans-unit id="foo">
+        <source xml:lang="en">&lt;opens some-attr="some-long-value" id="1938472938473.129374329874" rid="UNIT.2.0" fontsize="11"/&gt;You will now learn about the next exercises in the survey.&lt;closes id="1938472938473.129374329874" rid="UNIT.2.0"/&gt;&lt;opens  id="2393743293498734923.23974392" rid="UNIT.4.0" fontsize="11"/&gt;Please click &lt;b&gt;Next&lt;/b&gt; to continue.&lt;closes id="2393743293498734923.23974392" rid="UNIT.4.0"/&gt;</source>
+        <target state=":untranslated" xml:lang="es" />
+        <note>ADAPTATION: Please adapt currency units to the country's national currency.</note>
+        <note>LAYOUT: Please make sure that the text does not overflows.</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

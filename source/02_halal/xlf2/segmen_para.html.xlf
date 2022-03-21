@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="fr" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" its:version="2.0">
+ <file id="f1" original="/home/pico/Sync/PISA25/Tech/FilePrepp/XLIFF_bestpractices_OMT/original/02_halal/segmen_para.html">
+  <unit id="tu1:1" type="okp:paragraph">
+   <segment>
+    <source>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</source>
+   </segment>
+  </unit>
+  <unit id="tu1:2" type="okp:paragraph">
+   <segment>
+    <source>Aliquam ex nisi, mattis pulvinar nulla sed, commodo mattis ligula.</source>
+   </segment>
+  </unit>
+  <unit id="tu1:3" type="okp:paragraph">
+   <segment>
+    <source>Nulla sit amet leo lacinia, pellentesque mi non, aliquam augue.</source>
+   </segment>
+  </unit>
+  <unit id="tu1:4" type="okp:paragraph">
+   <segment>
+    <source>Pellentesque tempor dictum dui in imperdiet.</source>
+   </segment>
+  </unit>
+  <unit id="tu1:5" type="okp:paragraph">
+   <segment>
+    <source>Fusce ligula arcu, hendrerit eu dignissim eget, consequat quis sem.</source>
+   </segment>
+  </unit>
+  <unit id="tu1:6" type="okp:paragraph">
+   <segment>
+    <source>Maecenas eget ligula dapibus, dictum purus vitae, sodales neque.</source>
+   </segment>
+  </unit>
+  <unit id="tu1:7" type="okp:paragraph">
+   <segment>
+    <source>Vivamus commodo, nisi et vestibulum dictum, mauris nunc interdum tortor, vitae accumsan ex augue et mi.</source>
+   </segment>
+  </unit>
+  <unit id="tu1:8" type="okp:paragraph">
+   <segment>
+    <source>In congue mi non elit facilisis venenatis.</source>
+   </segment>
+  </unit>
+  <unit id="tu1:9" type="okp:paragraph">
+   <segment>
+    <source>Cras vestibulum, augue eget faucibus pretium, erat velit sagittis nibh, vel elementum est dolor at turpis.</source>
+   </segment>
+  </unit>
+  <unit id="tu1:10" type="okp:paragraph">
+   <segment>
+    <source>In tincidunt sodales lorem, sed scelerisque massa sodales et.</source>
+   </segment>
+  </unit>
+  <unit id="tu1:11" type="okp:paragraph">
+   <segment>
+    <source>Proin tortor dolor, faucibus non tristique quis, dictum non purus.</source>
+   </segment>
+  </unit>
+  <unit id="tu1:12" type="okp:paragraph">
+   <segment>
+    <source>Duis sagittis molestie est, sit amet cursus sem ultricies eget.</source>
+   </segment>
+  </unit>
+  <unit id="tu1:13" type="okp:paragraph">
+   <segment>
+    <source>Praesent sit amet nulla vitae erat cursus tincidunt vel a libero.</source>
+   </segment>
+  </unit>
+  <unit id="tu1:14" type="okp:paragraph">
+   <segment>
+    <source>Quisque porta nisi magna, vel maximus urna sodales id.</source>
+   </segment>
+  </unit>
+  <unit id="tu1:15" type="okp:paragraph">
+   <segment>
+    <source>Ut rhoncus, mauris sit amet euismod varius, sem massa tristique mi, eu blandit nulla est et erat.</source>
+   </segment>
+  </unit>
+  <unit id="tu2:1" type="okp:paragraph">
+   <segment>
+    <source>Nunc pretium consequat nisl a luctus.</source>
+   </segment>
+  </unit>
+  <unit id="tu2:2" type="okp:paragraph">
+   <segment>
+    <source>Phasellus elementum lacus augue, a feugiat sem suscipit ac.</source>
+   </segment>
+  </unit>
+  <unit id="tu2:3" type="okp:paragraph">
+   <segment>
+    <source>Donec rutrum neque sollicitudin metus pretium, ac dignissim urna ullamcorper.</source>
+   </segment>
+  </unit>
+  <unit id="tu2:4" type="okp:paragraph">
+   <segment>
+    <source>Proin gravida, elit in tempor tincidunt, magna augue pellentesque elit, in condimentum augue magna non orci.</source>
+   </segment>
+  </unit>
+  <unit id="tu2:5" type="okp:paragraph">
+   <segment>
+    <source>Nullam justo quam, efficitur eget suscipit quis, egestas ac massa.</source>
+   </segment>
+  </unit>
+  <unit id="tu2:6" type="okp:paragraph">
+   <segment>
+    <source>Integer et libero elementum, malesuada risus sed, fringilla turpis.</source>
+   </segment>
+  </unit>
+  <unit id="tu2:7" type="okp:paragraph">
+   <segment>
+    <source>Nullam bibendum aliquam neque, ut egestas lacus facilisis sit amet.</source>
+   </segment>
+  </unit>
+  <unit id="tu2:8" type="okp:paragraph">
+   <segment>
+    <source>Mauris diam lectus, tincidunt sed fermentum non, accumsan nec odio.</source>
+   </segment>
+  </unit>
+  <unit id="tu2:9" type="okp:paragraph">
+   <segment>
+    <source>Praesent aliquam imperdiet felis eget imperdiet.</source>
+   </segment>
+  </unit>
+  <unit id="tu2:10" type="okp:paragraph">
+   <segment>
+    <source>Vivamus in auctor dui, eget ultrices enim.</source>
+   </segment>
+  </unit>
+  <unit id="tu2:11" type="okp:paragraph">
+   <segment>
+    <source>Cras condimentum, eros sit amet sollicitudin pulvinar, magna sem porttitor nunc, id viverra ligula metus vel sapien.</source>
+   </segment>
+  </unit>
+  <unit id="tu2:12" type="okp:paragraph">
+   <segment>
+    <source>Etiam ut egestas orci.</source>
+   </segment>
+  </unit>
+  <unit id="tu2:13" type="okp:paragraph">
+   <segment>
+    <source>Morbi a tristique eros, vel posuere dui.</source>
+   </segment>
+  </unit>
+  <unit id="tu2:14" type="okp:paragraph">
+   <segment>
+    <source>Donec vel diam felis.</source>
+   </segment>
+  </unit>
+ </file>
+</xliff>

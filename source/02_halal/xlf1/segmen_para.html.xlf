@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" its:version="2.0">
+<file original="segmen_para.html" source-language="en" target-language="fr" datatype="html">
+<body>
+<trans-unit id="tu1:1" restype="x-paragraph">
+<source xml:lang="en">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</source>
+<target xml:lang="fr"></target>
+</trans-unit>
+<trans-unit id="tu1:2" restype="x-paragraph">
+<source xml:lang="en">Aliquam ex nisi, mattis pulvinar nulla sed, commodo mattis ligula.</source>
+<target xml:lang="fr"></target>
+</trans-unit>
+<trans-unit id="tu1:3" restype="x-paragraph">
+<source xml:lang="en">Nulla sit amet leo lacinia, pellentesque mi non, aliquam augue.</source>
+<target xml:lang="fr"></target>
+</trans-unit>
+<trans-unit id="tu1:4" restype="x-paragraph">
+<source xml:lang="en">Pellentesque tempor dictum dui in imperdiet.</source>
+<target xml:lang="fr"></target>
+</trans-unit>
+<trans-unit id="tu1:5" restype="x-paragraph">
+<source xml:lang="en">Fusce ligula arcu, hendrerit eu dignissim eget, consequat quis sem.</source>
+<target xml:lang="fr"></target>
+</trans-unit>
+<trans-unit id="tu1:6" restype="x-paragraph">
+<source xml:lang="en">Maecenas eget ligula dapibus, dictum purus vitae, sodales neque.</source>
+<target xml:lang="fr"></target>
+</trans-unit>
+<trans-unit id="tu1:7" restype="x-paragraph">
+<source xml:lang="en">Vivamus commodo, nisi et vestibulum dictum, mauris nunc interdum tortor, vitae accumsan ex augue et mi.</source>
+<target xml:lang="fr"></target>
+</trans-unit>
+<trans-unit id="tu1:8" restype="x-paragraph">
+<source xml:lang="en">In congue mi non elit facilisis venenatis.</source>
+<target xml:lang="fr"></target>
+</trans-unit>
+<trans-unit id="tu1:9" restype="x-paragraph">
+<source xml:lang="en">Cras vestibulum, augue eget faucibus pretium, erat velit sagittis nibh, vel elementum est dolor at turpis.</source>
+<target xml:lang="fr"></target>
+</trans-unit>
+<trans-unit id="tu1:10" restype="x-paragraph">
+<source xml:lang="en">In tincidunt sodales lorem, sed scelerisque massa sodales et.</source>
+<target xml:lang="fr"></target>
+</trans-unit>
+<trans-unit id="tu1:11" restype="x-paragraph">
+<source xml:lang="en">Proin tortor dolor, faucibus non tristique quis, dictum non purus.</source>
+<target xml:lang="fr"></target>
+</trans-unit>
+<trans-unit id="tu1:12" restype="x-paragraph">
+<source xml:lang="en">Duis sagittis molestie est, sit amet cursus sem ultricies eget.</source>
+<target xml:lang="fr"></target>
+</trans-unit>
+<trans-unit id="tu1:13" restype="x-paragraph">
+<source xml:lang="en">Praesent sit amet nulla vitae erat cursus tincidunt vel a libero.</source>
+<target xml:lang="fr"></target>
+</trans-unit>
+<trans-unit id="tu1:14" restype="x-paragraph">
+<source xml:lang="en">Quisque porta nisi magna, vel maximus urna sodales id.</source>
+<target xml:lang="fr"></target>
+</trans-unit>
+<trans-unit id="tu1:15" restype="x-paragraph">
+<source xml:lang="en">Ut rhoncus, mauris sit amet euismod varius, sem massa tristique mi, eu blandit nulla est et erat.</source>
+<target xml:lang="fr"></target>
+</trans-unit>
+<trans-unit id="tu2:1" restype="x-paragraph">
+<source xml:lang="en">Nunc pretium consequat nisl a luctus.</source>
+<target xml:lang="fr"></target>
+</trans-unit>
+<trans-unit id="tu2:2" restype="x-paragraph">
+<source xml:lang="en">Phasellus elementum lacus augue, a feugiat sem suscipit ac.</source>
+<target xml:lang="fr"></target>
+</trans-unit>
+<trans-unit id="tu2:3" restype="x-paragraph">
+<source xml:lang="en">Donec rutrum neque sollicitudin metus pretium, ac dignissim urna ullamcorper.</source>
+<target xml:lang="fr"></target>
+</trans-unit>
+<trans-unit id="tu2:4" restype="x-paragraph">
+<source xml:lang="en">Proin gravida, elit in tempor tincidunt, magna augue pellentesque elit, in condimentum augue magna non orci.</source>
+<target xml:lang="fr"></target>
+</trans-unit>
+<trans-unit id="tu2:5" restype="x-paragraph">
+<source xml:lang="en">Nullam justo quam, efficitur eget suscipit quis, egestas ac massa.</source>
+<target xml:lang="fr"></target>
+</trans-unit>
+<trans-unit id="tu2:6" restype="x-paragraph">
+<source xml:lang="en">Integer et libero elementum, malesuada risus sed, fringilla turpis.</source>
+<target xml:lang="fr"></target>
+</trans-unit>
+<trans-unit id="tu2:7" restype="x-paragraph">
+<source xml:lang="en">Nullam bibendum aliquam neque, ut egestas lacus facilisis sit amet.</source>
+<target xml:lang="fr"></target>
+</trans-unit>
+<trans-unit id="tu2:8" restype="x-paragraph">
+<source xml:lang="en">Mauris diam lectus, tincidunt sed fermentum non, accumsan nec odio.</source>
+<target xml:lang="fr"></target>
+</trans-unit>
+<trans-unit id="tu2:9" restype="x-paragraph">
+<source xml:lang="en">Praesent aliquam imperdiet felis eget imperdiet.</source>
+<target xml:lang="fr"></target>
+</trans-unit>
+<trans-unit id="tu2:10" restype="x-paragraph">
+<source xml:lang="en">Vivamus in auctor dui, eget ultrices enim.</source>
+<target xml:lang="fr"></target>
+</trans-unit>
+<trans-unit id="tu2:11" restype="x-paragraph">
+<source xml:lang="en">Cras condimentum, eros sit amet sollicitudin pulvinar, magna sem porttitor nunc, id viverra ligula metus vel sapien.</source>
+<target xml:lang="fr"></target>
+</trans-unit>
+<trans-unit id="tu2:12" restype="x-paragraph">
+<source xml:lang="en">Etiam ut egestas orci.</source>
+<target xml:lang="fr"></target>
+</trans-unit>
+<trans-unit id="tu2:13" restype="x-paragraph">
+<source xml:lang="en">Morbi a tristique eros, vel posuere dui.</source>
+<target xml:lang="fr"></target>
+</trans-unit>
+<trans-unit id="tu2:14" restype="x-paragraph">
+<source xml:lang="en">Donec vel diam felis.</source>
+<target xml:lang="fr"></target>
+</trans-unit>
+</body>
+</file>
+</xliff>

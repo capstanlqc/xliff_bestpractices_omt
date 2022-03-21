@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="250" height="40" viewBox="0 0 250 40"
+    xmlns="http://www.w3.org/2000/svg" version="1.1">
+
+  <style>
+<![CDATA[
+text{
+  font: 20px Verdana, Helvetica, Arial, sans-serif;
+}
+
+tspan{
+  fill: red;
+  font-weight: bold
+}
+]]>
+  </style>
+
+  <text x="15" y="30">
+    You are <tspan>not</tspan> a banana
+  </text>
+</svg>

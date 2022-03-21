@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="fr" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" its:version="2.0">
+ <file id="f1" original="/home/pico/Sync/PISA25/Tech/FilePrepp/XLIFF_bestpractices_OMT/original/02_halal/markup_inline.svg">
+  <unit id="2:1">
+   <originalData>
+    <data id="d1">&lt;b></data>
+    <data id="d2">&lt;/b></data>
+   </originalData>
+   <segment>
+    <source>You are <pc id="1" dataRefEnd="d2" dataRefStart="d1">not</pc> a banana.</source>
+   </segment>
+  </unit>
+ </file>
+</xliff>

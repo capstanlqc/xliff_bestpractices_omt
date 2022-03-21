@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="fr" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" its:version="2.0">
+ <file id="f1" original="/home/pico/Sync/PISA25/Tech/FilePrepp/XLIFF_bestpractices_OMT/original/02_halal/entities.html">
+  <unit id="tu1:1" type="okp:paragraph">
+   <segment>
+    <source>The following three options should all look the same both in a browser and in the translation editor:</source>
+   </segment>
+  </unit>
+  <unit id="tu2:1" type="okp:li">
+   <segment>
+    <source>Named: (40 ÷ 10) + (8 ÷ 2)</source>
+   </segment>
+  </unit>
+  <unit id="tu3:1" type="okp:li">
+   <segment>
+    <source>Numeric: (40 ÷ 10) + (8 ÷ 2)</source>
+   </segment>
+  </unit>
+  <unit id="tu4:1" type="okp:li">
+   <segment>
+    <source>Character: (40 ÷ 10) + (8 ÷ 2)</source>
+   </segment>
+  </unit>
+ </file>
+</xliff>

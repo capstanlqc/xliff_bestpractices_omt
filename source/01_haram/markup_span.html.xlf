@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" its:version="2.0">
+<file original="TMS_Addhalves_fr-FR_REC-NR.html" source-language="en" target-language="fr" datatype="html">
+<body>
+<trans-unit id="tu1" restype="x-paragraph">
+<source xml:lang="en">What is the total length of the sticks in the line?</source>
+<target xml:lang="fr" />
+</trans-unit>
+<trans-unit id="tu2" restype="x-paragraph">
+<source xml:lang="en">&lt;span style=&quot;font-size:12pt;font-family:&amp;quot;times new roman&amp;quot;, &amp;quot;serif&amp;quot;&quot;>Code1: &lt;/span&gt;&lt;span style=&quot;font-size:12pt;font-family:&amp;quot;times new roman&amp;quot;, &amp;quot;serif&amp;quot;&quot;>3/2 or 11/2 or 1.5&lt;/span&gt;</source>
+<target xml:lang="fr" />
+</trans-unit>
+<trans-unit id="tu3" restype="x-paragraph">
+<source xml:lang="en">&lt;span style=&quot;font-size:12pt;font-family:&amp;quot;times new roman&amp;quot;, &amp;quot;serif&amp;quot;&quot;>&lt;/span&gt;&lt;span style=&quot;font-size:12pt;font-family:&amp;quot;times new roman&amp;quot;, &amp;quot;serif&amp;quot;&quot;>Code0: Other&lt;/span&gt;</source>
+<target xml:lang="fr" />
+</trans-unit>
+<trans-unit id="tu4" restype="x-paragraph">
+<source xml:lang="en">&lt;span style=&quot;font-size:12pt;font-family:&amp;quot;times new roman&amp;quot;, &amp;quot;serif&amp;quot;&quot;>Code 9: Missing&lt;/span&gt;</source>
+<target xml:lang="fr" />
+</trans-unit>
+</body>
+</file>
+</xliff>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="fr" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" its:version="2.0">
+ <file id="f1" original="/home/pico/Sync/PISA25/Tech/FilePrepp/XLIFF_bestpractices_OMT/original/02_halal/markup_input.html">
+  <unit id="tu2" type="okp:title">
+   <segment>
+    <source>How many centimeters.</source>
+   </segment>
+  </unit>
+  <unit id="tu1" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;input type="text" name="fname" autocomplete="off" size="4" id="emperor-penguin-versus-little-penguin" class="heigh-differnet" pattern="[0-9]+" [#$tu2] formmethod="post" required autofocus></data>
+   </originalData>
+   <segment>
+    <source>An emperor penguin is <ph id="1" canCopy="no" canDelete="no" subFlows="tu2" dataRef="d1"/> cm taller than a little penguin.</source>
+   </segment>
+  </unit>
+ </file>
+</xliff>

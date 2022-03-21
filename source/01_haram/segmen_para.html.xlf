@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" its:version="2.0">
+  <file original="TRANSLATABLE-STIM.html" source-language="en" datatype="plaintext" target-language="fr" xml:space="preserve">
+    <header>
+      <reference>
+        <external-file href="TRAINI-001249" />
+      </reference>
+    </header>
+    <body>
+      <trans-unit id="TRAINI-001249_stem_paragraph1" approved="yes">
+        <source xml:lang="en">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ex nisi, mattis pulvinar nulla sed, commodo mattis ligula. Nulla sit amet leo lacinia, pellentesque mi non, aliquam augue. Pellentesque tempor dictum dui in imperdiet. Fusce ligula arcu, hendrerit eu dignissim eget, consequat quis sem. Maecenas eget ligula dapibus, dictum purus vitae, sodales neque. Vivamus commodo, nisi et vestibulum dictum, mauris nunc interdum tortor, vitae accumsan ex augue et mi. In congue mi non elit facilisis venenatis. Cras vestibulum, augue eget faucibus pretium, erat velit sagittis nibh, vel elementum est dolor at turpis. In tincidunt sodales lorem, sed scelerisque massa sodales et. Proin tortor dolor, faucibus non tristique quis, dictum non purus. Duis sagittis molestie est, sit amet cursus sem ultricies eget. Praesent sit amet nulla vitae erat cursus tincidunt vel a libero. Quisque porta nisi magna, vel maximus urna sodales id. Ut rhoncus, mauris sit amet euismod varius, sem massa tristique mi, eu blandit nulla est et erat.</source>
+        <target state=":untranslated" xml:lang="es" />
+        <readonly-note />
+      </trans-unit>
+      <trans-unit id="TRAINI-001249_stem_paragraph2" approved="yes">
+        <source xml:lang="en">Nunc pretium consequat nisl a luctus. Phasellus elementum lacus augue, a feugiat sem suscipit ac. Donec rutrum neque sollicitudin metus pretium, ac dignissim urna ullamcorper. Proin gravida, elit in tempor tincidunt, magna augue pellentesque elit, in condimentum augue magna non orci. Nullam justo quam, efficitur eget suscipit quis, egestas ac massa. Integer et libero elementum, malesuada risus sed, fringilla turpis. Nullam bibendum aliquam neque, ut egestas lacus facilisis sit amet. Mauris diam lectus, tincidunt sed fermentum non, accumsan nec odio. Praesent aliquam imperdiet felis eget imperdiet. Vivamus in auctor dui, eget ultrices enim. Cras condimentum, eros sit amet sollicitudin pulvinar, magna sem porttitor nunc, id viverra ligula metus vel sapien. Etiam ut egestas orci. Morbi a tristique eros, vel posuere dui. Donec vel diam felis.</source>
+        <target state=":untranslated" xml:lang="es" />
+        <readonly-note />
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

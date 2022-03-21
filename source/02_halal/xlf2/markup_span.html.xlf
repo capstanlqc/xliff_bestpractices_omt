@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="fr" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" its:version="2.0">
+ <file id="f1" original="/home/pico/Sync/PISA25/Tech/FilePrepp/XLIFF_bestpractices_OMT/original/02_halal/markup_span.html">
+  <unit id="tu1:1" type="okp:paragraph">
+   <segment>
+    <source>What is the total length of the sticks in the line?</source>
+   </segment>
+  </unit>
+  <unit id="tu2:1" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;span style='font-size:12pt;font-family:"times new roman", "serif"'></data>
+    <data id="d2">&lt;/span></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Code1: </pc><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">3/2 or 11/2 or 1.5</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu3:1" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;span style='font-size:12pt;font-family:"times new roman", "serif"'></data>
+    <data id="d2">&lt;/span></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1"></pc><pc id="2" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Code0: Other</pc></source>
+   </segment>
+  </unit>
+  <unit id="tu4:1" type="okp:paragraph">
+   <originalData>
+    <data id="d1">&lt;span style='font-size:12pt;font-family:"times new roman", "serif"'></data>
+    <data id="d2">&lt;/span></data>
+   </originalData>
+   <segment>
+    <source><pc id="1" canCopy="no" canDelete="no" dataRefEnd="d2" dataRefStart="d1">Code 9: Missing</pc></source>
+   </segment>
+  </unit>
+ </file>
+</xliff>
