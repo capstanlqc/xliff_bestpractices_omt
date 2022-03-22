@@ -4,6 +4,30 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.0_0_8ae1ecfb" segtype="paragraph" srclang="en"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="en">
+        <seg>Aliquam ex nisi, mattis pulvinar nulla sed, commodo mattis ligula.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Danina Lupsa" changedate="20220322T141100Z" creationid="Danina Lupsa" creationdate="20220322T141100Z">
+        <seg>dfjlskjflkdsjfs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Danina Lupsa" changedate="20220322T141059Z" creationid="Danina Lupsa" creationdate="20220322T141059Z">
+        <seg>Test translation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You are &lt;g1&gt;not&lt;/g1&gt; a banana.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Danina Lupsa" changedate="20220322T141123Z" creationid="Danina Lupsa" creationdate="20220322T141123Z">
+        <seg>Tu &lt;g1&gt;n'es pas&lt;/g1&gt; une banane.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
