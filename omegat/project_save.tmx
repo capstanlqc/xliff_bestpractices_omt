@@ -40,8 +40,8 @@
       <tuv lang="en">
         <seg>You are &lt;g1&gt;not&lt;/g1&gt; a banana.</seg>
       </tuv>
-      <tuv lang="fr" changeid="Danina Lupsa" changedate="20220322T141123Z" creationid="Danina Lupsa" creationdate="20220322T141123Z">
-        <seg>Tu &lt;g1&gt;n'es pas&lt;/g1&gt; une banane.</seg>
+      <tuv lang="fr" changeid="pico" changedate="20220322T151236Z" creationid="Danina Lupsa" creationdate="20220322T141123Z">
+        <seg>Tu &lt;g1&gt;n'es pas&lt;/g1&gt; une platanito.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
