@@ -38,6 +38,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Named: (40 &amp;divide; 10) + (8 &amp;divide; 2)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Adrien" changedate="20220322T124841Z" creationid="Adrien" creationdate="20220322T124841Z">
+        <seg>hello hello</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The following three options should all look the same both in a browser and in the translation editor:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Adrien" changedate="20220322T124837Z" creationid="Adrien" creationdate="20220322T124837Z">
+        <seg>This is Adrien translating</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You are &lt;g1&gt;not&lt;/g1&gt; a banana.</seg>
       </tuv>
       <tuv lang="fr" changeid="pico" changedate="20220322T151236Z" creationid="Danina Lupsa" creationdate="20220322T141123Z">
