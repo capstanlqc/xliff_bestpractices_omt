@@ -14,6 +14,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An emperor penguin is &lt;x1/&gt; cm taller than a little penguin.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Danina Lupsa" changedate="20220322T150830Z" creationid="Danina Lupsa" creationdate="20220322T150830Z">
+        <seg>Un pingu est &lt;x1/&gt;cm plus grand qu'un petit pingu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How many centimeters.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="Danina Lupsa" changedate="20220322T150815Z" creationid="Danina Lupsa" creationdate="20220322T150815Z">
+        <seg>Combien de centimètres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</seg>
       </tuv>
       <tuv lang="fr" changeid="Danina Lupsa" changedate="20220322T141059Z" creationid="Danina Lupsa" creationdate="20220322T141059Z">
