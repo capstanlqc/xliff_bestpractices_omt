@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Numeric: (40 &amp;divide; 10) + (8 &amp;divide; 2)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="pico" changedate="20220322T151805Z" creationid="pico" creationdate="20220322T151805Z">
+        <seg>What is the police's favorite youghourt?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The following three options should all look the same both in a browser and in the translation editor:</seg>
       </tuv>
       <tuv lang="fr" changeid="Adrien" changedate="20220322T141743Z" creationid="Adrien" creationdate="20220322T124837Z">
